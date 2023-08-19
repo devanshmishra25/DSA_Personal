@@ -2,7 +2,7 @@
 using namespace std;
 
 void nextPermutation(vector<int>& A) {
-    int ind = -1;
+    int ind = -1; // this is used to find the break point
     int n = A.size();
 
     for(int i = n - 2; i >= 0; i--) {
