@@ -1,3 +1,6 @@
+//brute force
+
+
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -19,3 +22,4 @@ int main(){
     nums = {1,3,4,2,2};
     cout << "The duplicate element is " << findDup(nums) << endl;
 }
+
