@@ -1,5 +1,6 @@
 # DSA_Personal
 
-Practice problems 
+DSA basics
+
 
 
